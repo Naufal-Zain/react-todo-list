@@ -85,7 +85,3 @@ npm run build
 Hasil build akan disimpan di folder `dist/`.
 
 ---
-
-## Lisensi
-
-Proyek ini dibuat untuk tujuan pembelajaran dan latihan pengembangan web. Bebas digunakan dan dimodifikasi untuk kebutuhan belajar Anda.
